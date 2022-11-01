@@ -23,7 +23,7 @@ const LoginForm = () => {
   return (
     <div>
       <form>
-        <div className="mb-3">
+        <div className="mb-3 mt-2">
           <label htmlFor="exampleInputEmail1" className="form-label">
             Email address
           </label>

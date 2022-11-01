@@ -4,7 +4,6 @@ import SubmitButton from "../buttons/SubmitButton";
 const RegistrationForm = () => {
   return (
     <div className="mt-2">
-      <h1>Registration Form</h1>
       <form>
         <div className="mb-3">
           <label htmlFor="exampleInputEmail1" className="form-label">
